@@ -1,5 +1,11 @@
-p {
-    background-color: rgb(rgb(218, 117, 117), green, blue);
-    font-family: 'Verdana' 'DejaVu Sans' sans-serif;
-    
-}
+.odd-number{ background-color: rgb(rgb(218, 117, 117), green, blue);
+    font-family: 'Verdana' 'DejaVu Sans' sans-serif;} 
+
+#second { color: rgb(red, green, rgb(8, 8, 248));
+font-size: 36px;}
+
+.third {font-size: 24px;}
+
+#fourth {background-color: rgb(rgb(130, 221, 26);
+font-size: 24px;
+font-weight: bold;}
